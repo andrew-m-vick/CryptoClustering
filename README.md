@@ -9,3 +9,7 @@ This project applies unsupervised machine learning techniques to cluster cryptoc
 - **Elbow Curve Analysis:** The optimal number of clusters is determined using the Elbow Curve method.
 - **Principal Component Analysis (PCA):** PCA is utilized to reduce dimensionality and potentially improve clustering results.
 - **Visualization:** Scatter plots are generated to visualize and compare the clustering outcomes with and without PCA optimization.
+
+## Insights
+
+The analysis aims to identify distinct groups or clusters of cryptocurrencies exhibiting similar price change behaviors. This information can be valuable for portfolio diversification and investment strategy development.
